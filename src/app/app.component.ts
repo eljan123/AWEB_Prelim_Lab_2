@@ -18,7 +18,7 @@ import { ReferencesComponent } from './references/references.component';
     ReferencesComponent,
   ],
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'], // Corrected this property
+  styleUrls: ['./app.component.css'], 
 })
 export class AppComponent {
   title = 'prelim_lab_2';
